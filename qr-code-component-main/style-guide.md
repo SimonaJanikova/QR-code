@@ -14,7 +14,7 @@ The designs were created to the following widths:
 - White: rgb(255, 255, 255)
 
 - Slate 300: rgb(214, 226, 240)
-- Slate 500: hsl(216, 15%, 48%)
+- Slate 500: rgb(104, 119, 141)
 - Slate 900: hsl(218, 44%, 22%)
 
 ## Typography
